@@ -1,7 +1,7 @@
 # EDM-Portfolio
 This is my Repository
 ### About Me
-Hi I my name is byron jio 
+Hi My name is byron jio 
 ### Education
 - college: City College Of Angeles (BSIS)
 - High School: BVRHS
