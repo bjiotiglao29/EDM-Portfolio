@@ -1,4 +1,4 @@
-
+![3](https://github.com/user-attachments/assets/d8be0019-3794-4f4f-a9be-b5bdc1f1193c)
 
 # Midterm Lab Task 2
 -  In this task, I cleaned and transformed a dataset using Power Query in Excel. I removed unnecessary characters, created new salary columns, categorized job roles, and standardized location data. I handled negative values, cleaned company info, and grouped the data by role, size, and state. Finally, I mapped state abbreviations and summarized the salary data.
@@ -57,12 +57,8 @@
    - Go to View -> Dependencies to check the relationship between the queries and ensure they are correct.
 
 ### Screenshots/Documentation of the cleaning process
-![Image](https://github.com/user-attachments/assets/402982a3-b571-4733-b644-c4ab6d0beee1)
 
-![Image](https://github.com/user-attachments/assets/df563d41-9f3e-404f-bb33-2c4a73fbe98b)
-
-![Image](https://github.com/user-attachments/assets/e1d089eb-9300-441e-bb52-7c1abeefe38c)
-
-![Image](https://github.com/user-attachments/assets/927d1efd-968a-41d3-937c-e34cd8da8210)
-
-![Image](https://github.com/user-attachments/assets/cbb1cbf7-de6b-4774-bc1f-323406ce9603)
+![3](https://github.com/user-attachments/assets/9805f323-5864-4f27-a743-22330702ddb4)
+![4](https://github.com/user-attachments/assets/e28e40d2-26cf-4a13-acec-7206d237d990)
+![1](https://github.com/user-attachments/assets/47d14a0d-dac7-45e8-9593-3907efe7ea1f)
+![2](https://github.com/user-attachments/assets/4fd1320a-0432-4e8f-b4c2-4b722cd64dce)
