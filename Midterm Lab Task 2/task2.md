@@ -1,4 +1,4 @@
-![3](https://github.com/user-attachments/assets/d8be0019-3794-4f4f-a9be-b5bdc1f1193c)
+
 
 # Midterm Lab Task 2
 -  In this task, I cleaned and transformed a dataset using Power Query in Excel. I removed unnecessary characters, created new salary columns, categorized job roles, and standardized location data. I handled negative values, cleaned company info, and grouped the data by role, size, and state. Finally, I mapped state abbreviations and summarized the salary data.
