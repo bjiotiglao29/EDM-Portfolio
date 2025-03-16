@@ -5,7 +5,7 @@ This is my Repository
 ### About Me
 Hi My name is byron jio 
 ### Education
-- college: City College Of Angeles (BSIS)
+- College: City College Of Angeles (BSIS)
 - High School: BVRHS
 - Elementary: ERES
   ### My Project
