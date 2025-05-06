@@ -21,3 +21,6 @@ Hi My name is byron jio
 
 
 - Final Lab Task 3:   [Table Manipulation](https://bjiotiglao29.github.io/final-lab-task-3/)
+
+- Final Lab Task 3.1:   [Using MYSQL CLAUSE](https://bjiotiglao29.github.io/Final-Lab-Task-3.1/)
+
