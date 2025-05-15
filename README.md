@@ -24,3 +24,5 @@ Hi My name is byron jio
 
 - Final Lab Task 3.1:   [Using MYSQL CLAUSE](https://bjiotiglao29.github.io/Final-Lab-Task-3.1/)
 
+- Final Lab Task 5:  [Views, Stored Procedures and Functions](https://bjiotiglao29.github.io/Finals-Lab-Task-5-Views-Stored-Procedures-and-Functions/)
+
